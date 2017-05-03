@@ -23,3 +23,5 @@ Install the spaCy model you need to run:
 To run jupyter notebook run:
 
     jupyter notebook
+    
+https://github.com/cytora/pycon-nlp-in-10-lines
